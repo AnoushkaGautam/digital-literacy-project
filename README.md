@@ -25,4 +25,5 @@ The project includes five tasks corresponding to different modules of the course
 - Google Forms  
 - HackerRank  
 
-*(Google Form link will be added after Task 3 completion.)*
+##Google Form Link
+https://docs.google.com/forms/d/e/1FAIpQLSc1cwpjaPqQFjDhwV-QwJugzPR1VPlIrVe-j3eHlfNDHzXiiA/viewform?usp=header
